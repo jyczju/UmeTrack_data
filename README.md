@@ -7,7 +7,7 @@ This repo contains dataset used in the paper [UmeTrack: Unified multi-view end-t
 
 具体使用方法如下：
 
-1.在网页端下载Umetrack_data仓库的zip压缩包
+1.在网页端下载Umetrack_data仓库的zip压缩包，并解压至自定义目录
 
 2.将downloader.py放置在同一目录下，修改代码中的路径，一个是IDM下载器的路径，一个是数据集在本地的存储路径，注意有多处需要修改
 
